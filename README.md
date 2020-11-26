@@ -14,3 +14,4 @@ Python solutions to the Deep Learning course @ LMU (winter term 20/21)
 1. Log in: [Google Colab](https://colab.research.google.com/)
 2. Select this repo in the "GitHub" tab
 3. Choose a notebook
+4. Click File -> "Save a copy in Drive" to make changes
