@@ -5,7 +5,7 @@ Python solutions to the Deep Learning course @ LMU (winter term 20/21)
 
 ### Local machine
 1. Install Python 3.7 or higher
-2. Clone/Download Repo
+2. Clone/Download repo
 3. Create virtual environment (optional)
 4. Install requirements
 5. Start `jupyter notebook`
