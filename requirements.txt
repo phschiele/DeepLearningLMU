@@ -5,3 +5,5 @@ matplotlib
 seaborn
 anytree
 tensorflow
+imageio
+scipy
